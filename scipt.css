@@ -1,0 +1,81 @@
+.bg-primary-color{
+    background-color: #fff;
+}
+.bg-secondary-color{
+    background-color: #ece8;
+}
+.bg-dark-color{
+    background-color: #050505;
+}
+
+.primary-color{
+    background-color: #050505;
+}
+#navbar{
+    border-bottom: 3px solid #6b5656;
+}
+
+.secondary-color{
+    background-color:#ffffff;
+}
+
+
+#navbar a.active {
+    border-bottom: 1px solid #7a7a7a;
+}
+
+.navbar-brand span {
+  font-weight: 900;
+}
+
+#navbar-items .navbar-nav {
+    justify-content: center;
+    width: 100%;
+}
+
+#navbar-items .nav-item{
+    margin: 0 2em;
+}
+@media only screen and (min-width: 760px)  and (max-width: 991px){
+ 
+    .card{
+    margin-bottom: 5px;
+    }
+    .margen{
+        margin-bottom: 5px;
+        }
+}
+
+
+.foto {
+    width: 500px!important;
+    height: 300px!important;
+    }
+
+.textoFavicon {
+    margin-left: 15px;
+    margin-top: 12px;
+    font-size: large;
+    font-weight: 600;
+}
+
+@media only screen and (max-width: 767px){
+.margemTopo{
+    margin-top: 0px;
+}
+
+.margemTopoSobreNos{
+    margin-top: 30px;
+}
+
+.margembotSobreNos{
+    margin-bottom: 50px;
+}
+
+.margemTopoCard{
+    margin-top: 15px;
+}
+
+.fontMobile{
+    font-size: 22px!important;
+}}
